@@ -24,5 +24,5 @@ Keeping track of all my projects
 3. I like working with others and seeing my coding projects work.
 	
 
-![Edit]("C:\githubpages1\images\C100solo.png") 
+![Edit](/images/C100solo.png) 
 
