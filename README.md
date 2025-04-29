@@ -1,7 +1,7 @@
 # [ClearCareer]
 
 ## Who is Jamal Carter
-I am a junior at [Southern Illinois University of Edwardsville], pursuing a Bachelor's degree in [Computer Science]. I'm looking for a job in the software industry where I can be a middle man between software developers and clients. My experience in software development and great communication skills make me a great fit for the position. ![Edit](/images/C100solo.png)
+I am a junior at [Southern Illinois University of Edwardsville], pursuing a Bachelor's degree in [Computer Science]. I'm looking for a job in the software industry where I can be a middle man between software developers and clients. My experience in software development and great communication skills make me a great fit for the position. ![Edit](/images/updatedc100photo.png)
 
 ## Experience
 I have worked with the following programming languages:
@@ -9,8 +9,6 @@ I have worked with the following programming languages:
 - Python
 - HTML
 - MYSQL
-
-[Resume] this will contain a link to my resume once updated and turned in with part 2 of this assignent.
 
 ## What I've learned in git hub so far
 1. Basic git commands
