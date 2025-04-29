@@ -1,7 +1,7 @@
 # [ClearCareer]
 
 ## Who is Jamal Carter
-I am a junior at [Southern Illinois University of Edwardsville], pursuing a Bachelor's degree in [Computer Science]. I'm looking for a job in the software industry where I can be a middle man between software developers and clients. My experience in software development and great communication skills make me a great fit for the position. ![Edit](/images/updatedc100photo.png)
+I am a junior at [Southern Illinois University of Edwardsville], pursuing a Bachelor's degree in [Computer Science]. I'm looking for a job in the software industry where I can be a middle man between software developers and clients. My experience in software development and great communication skills make me a great fit for the position. ![Edit](C:\githubpages1\images\updatedc100photo.png)
 
 ## Experience
 I have worked with the following programming languages:
